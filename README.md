@@ -1,4 +1,4 @@
-# caps
+https://github.com/Tasnimwheebi/caps# caps
 
 ### Lab-11 
 
@@ -18,10 +18,10 @@
 
 ## Links
 
-[Repo link]()
+[Repo link](https://github.com/Tasnimwheebi/caps)
 
 
-[PR]()
+[PR](https://github.com/Tasnimwheebi/caps/pull/2)
 
 
 ## Installation
