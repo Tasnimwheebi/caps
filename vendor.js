@@ -11,7 +11,7 @@ const order = {
 }
 
 events.on('delivered', (payload)=>{
-    // events.emit('',{order});
+    
     console.log('Thank you');
 })
 
